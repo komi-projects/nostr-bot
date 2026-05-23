@@ -1,0 +1,68 @@
+[
+  {
+    "id": "328cc6b39aa607c4c854054efb5cf2901e79dac55b885d6285bd547dd9bfcb25",
+    "created_at": 1779516380,
+    "content": "🚀 SimpleRecover is LIVE\n\nThe payment recovery tool SaaS founders actually need.\n\n→ Recovers failed Stripe payments automatically\n→ Smart dunning sequences that don't annoy customers\n→ Real-time dashb...",
+    "results": [
+      {
+        "relay": "wss://relay.damus.io",
+        "status": "error",
+        "error": "Unexpected server response: 503"
+      },
+      {
+        "relay": "wss://relay.nostr.band",
+        "status": "timeout"
+      },
+      {
+        "relay": "wss://nos.lol",
+        "status": "error",
+        "error": "Opening handshake has timed out"
+      },
+      {
+        "relay": "wss://relay.nostr.bg",
+        "status": "error",
+        "error": "getaddrinfo ENOTFOUND relay.nostr.bg"
+      },
+      {
+        "relay": "wss://relay.snort.social",
+        "status": "ok",
+        "message": ""
+      },
+      {
+        "relay": "wss://offchain.pub",
+        "status": "ok",
+        "message": ""
+      },
+      {
+        "relay": "wss://nostr.wine",
+        "status": "error",
+        "error": "Unexpected server response: 403"
+      },
+      {
+        "relay": "wss://eden.nostr.land",
+        "status": "ok",
+        "message": "restricted: Pay on https://nostr.land for access."
+      },
+      {
+        "relay": "wss://nostr.mom",
+        "status": "error",
+        "error": "Opening handshake has timed out"
+      },
+      {
+        "relay": "wss://puravida.nostr.land",
+        "status": "error",
+        "error": "Opening handshake has timed out"
+      },
+      {
+        "relay": "wss://relay.orangepill.dev",
+        "status": "error",
+        "error": "getaddrinfo ENOTFOUND relay.orangepill.dev"
+      },
+      {
+        "relay": "wss://nostr.oxtr.dev",
+        "status": "ok",
+        "message": "blocked"
+      }
+    ]
+  }
+]
