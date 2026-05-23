@@ -1,0 +1,39 @@
+{
+  "keys": {
+    "privateKey": "fbefc0e7e286da682e9bd7f61a3e14b6a3fd5bcff50c3f024bee3b69b5c45661",
+    "publicKey": "40f63808fef06916893d079e3b751b9fbc7d8b4e0126da4b31ba4ac202273afa",
+    "nsec": "nsec1l0hupelzsmdxst5m6lmp50s5k63l6k7075xr7qjtacakndwy2essnup48a",
+    "npub": "npub1grmrsz877p53dzfaq70rkagmn778mz6wqynd5je3hf9vyq388taqqmt9sc",
+    "createdAt": "2026-05-23T05:59:45.307Z"
+  },
+  "relays": [
+    "wss://relay.damus.io",
+    "wss://relay.nostr.band",
+    "wss://nos.lol",
+    "wss://relay.nostr.bg",
+    "wss://relay.snort.social",
+    "wss://offchain.pub",
+    "wss://nostr.wine",
+    "wss://eden.nostr.land",
+    "wss://nostr.mom",
+    "wss://puravida.nostr.land",
+    "wss://relay.orangepill.dev",
+    "wss://nostr.oxtr.dev"
+  ],
+  "defaults": {
+    "defaultTags": [
+      [
+        "t",
+        "simple-recover"
+      ],
+      [
+        "t",
+        "saas"
+      ],
+      [
+        "t",
+        "payments"
+      ]
+    ]
+  }
+}
