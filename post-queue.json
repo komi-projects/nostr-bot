@@ -1,0 +1,100 @@
+[
+  {
+    "day": 0,
+    "title": "Launch announcement",
+    "content": "🚀 SimpleRecover is LIVE\n\nThe payment recovery tool SaaS founders actually need.\n\n→ Recovers failed Stripe payments automatically\n→ Smart dunning sequences that don't annoy customers\n→ Real-time dashboard showing recovered revenue\n→ Set up in 5 minutes, not 5 hours\n\nBuilt by a solo founder who got tired of watching MRR leak through the cracks.\n\nCheck it out. Your churn rate will thank you.\n\n#simple-recover #saas #stripe #payments #indiehackers",
+    "tags": [
+      [
+        "t",
+        "launch"
+      ]
+    ],
+    "posted": false,
+    "postedAt": null,
+    "eventId": null
+  },
+  {
+    "day": 1,
+    "title": "Payment recovery tip",
+    "content": "💡 Payment Recovery Tip #1\n\nThe #1 mistake SaaS founders make with dunning?\nSending the same email 3 times and calling it a \"sequence.\"\n\nHere's what actually works:\n\n1️⃣ Day 1: Friendly reminder (soft tone, helpful)\n2️⃣ Day 3: \"Your account will be restricted\" (clear consequence)\n3️⃣ Day 7: \"Here's how to update your card\" (make it easy)\n4️⃣ Day 14: Personal outreach (for high-value accounts)\n\nEach message should feel different. Same problem, different angle.\n\nYour customers aren't ignoring you. They're busy. Help them solve it.\n\n#saas #payments #dunning #churn #simple-recover",
+    "tags": [
+      [
+        "t",
+        "tip"
+      ]
+    ],
+    "posted": false,
+    "postedAt": null,
+    "eventId": null
+  },
+  {
+    "day": 2,
+    "title": "Stripe dunning stats",
+    "content": "📊 Stripe Dunning Stats That Hurt\n\n→ 15% of SaaS payments fail on average\n→ 70% of those failures are recoverable\n→ Only 30% of SaaS companies have ANY dunning flow\n→ The average recovered payment is worth $147 ARR\n\nDo the math: If you have 1000 customers and 15% fail, that's 150 failed payments.\nRecover 70% = 105 customers saved.\nAt $147 ARR = $15,435 recovered per month.\n\nThat's $185k/year you're probably leaving on the table.\n\nSimpleRecover was built to grab that money back.\n\n#stripe #saas #metrics #mrr #simple-recover",
+    "tags": [
+      [
+        "t",
+        "stats"
+      ]
+    ],
+    "posted": false,
+    "postedAt": null,
+    "eventId": null
+  },
+  {
+    "day": 3,
+    "title": "Churn prevention",
+    "content": "🛡️ Churn Prevention is Revenue Protection\n\nMost founders treat churn as a \"customer success problem.\"\n\nWrong. It's a revenue operations problem.\n\nInvoluntary churn (failed payments) is the silent killer:\n→ Customer didn't choose to leave\n→ They just didn't update their expired card\n→ They might not even KNOW their payment failed\n\nFix the payment issue = fix the churn.\nNo cancel flow needed. No win-back campaign. No \"we miss you\" email.\n\nJust get the money before it walks out the door.\n\nThat's what SimpleRecover does. Automatically.\n\n#churn #saas #revenue #simple-recover #indiehackers",
+    "tags": [
+      [
+        "t",
+        "churn"
+      ]
+    ],
+    "posted": false,
+    "postedAt": null,
+    "eventId": null
+  },
+  {
+    "day": 4,
+    "title": "Failed payment cost",
+    "content": "💸 What Does a Failed Payment Actually Cost?\n\nDirect cost: Lost revenue (obviously)\n\nHidden costs:\n→ Support tickets asking \"why doesn't my login work?\"\n→ Time spent manually following up with customers\n→ Engineering time building custom retry logic\n→ Customer confusion and bad UX\n→ Reputation damage when accounts get locked unexpectedly\n\nThe total cost is 3-5x the actual failed payment amount.\n\nSimpleRecover handles the whole pipeline:\nretries → emails → dunning → recovery → reporting.\n\nOne tool. One setup. Done.\n\n#saas #operations #stripe #simple-recover",
+    "tags": [
+      [
+        "t",
+        "cost"
+      ]
+    ],
+    "posted": false,
+    "postedAt": null,
+    "eventId": null
+  },
+  {
+    "day": 5,
+    "title": "SimpleRecover features",
+    "content": "⚡ SimpleRecover Features (The Short List)\n\n→ Stripe Connect integration (read-only, secure)\n→ Smart retry engine with backoff logic\n→ Multi-step dunning sequences (email + in-app)\n→ Real-time recovery dashboard\n→ Failed payment analytics and trends\n→ Customer health scoring\n→ Webhook-based, near-instant updates\n→ REST API for custom workflows\n→ GDPR compliant, no customer PIP stored\n\nBuilt for founders who want their payment recovery DONE, not managed.\n\nSet it up once. Watch your MRR stabilize.\n\n#saas #features #stripe #simple-recover #buildinpublic",
+    "tags": [
+      [
+        "t",
+        "features"
+      ]
+    ],
+    "posted": false,
+    "postedAt": null,
+    "eventId": null
+  },
+  {
+    "day": 6,
+    "title": "Call to action",
+    "content": "👋 Last day of launch week. Here's the ask.\n\nIf you're running a SaaS and you've ever looked at your churn number and thought \"that feels high\" — you're probably losing money to failed payments.\n\nSimpleRecover fixes that. In 5 minutes. For less than you're losing per month.\n\n→ Link in bio\n→ Free trial, no credit card required\n→ See your recoverable revenue in the first hour\n\nBuilt in public. Shipped fast. Improving weekly.\n\nThanks for following along this week. The real work starts now.\n\n#simple-recover #saas #launch #indiehackers #buildinpublic",
+    "tags": [
+      [
+        "t",
+        "cta"
+      ]
+    ],
+    "posted": false,
+    "postedAt": null,
+    "eventId": null
+  }
+]
